@@ -1,9 +1,0 @@
-def format_duration(seconds):
-    # initialise dict. with year, days, hours, seconds
-    # if statement that checks for zero
-    # extract no. years from seconds
-    # extract no. days from remaining seconds
-    # extract no. hours from remaining seconds
-    # record remaining seconds
-    # format into final string
-    # for each of "year", "day" etc. may need if statement to pluralise unit or not
